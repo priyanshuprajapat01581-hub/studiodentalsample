@@ -1,0 +1,6 @@
+{
+  "name": "Smile Care Dental Clinic",
+  "description": "Expert dental care delivered with compassion and the latest technology. Established in 2005, Smile Care provides professional, family-friendly dentistry.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
